@@ -13,3 +13,6 @@ Rust is statically and strongly typed and is a compiled language.
 One of the biggest advantages of Rust, apart from it's extremely friendly compiler that holds your hand through your development journey, is that it doesn't use garbage collection and it doesn't require you to manage memory. With C and C++, managing memory becomes tedious and Rust avoids all of this by checking the memory heap on demand. So whenever it is close to being full, the compiler takes care of clearing up memory so the developer doesn't need to worry about it.
 
 Like Python has `pip`, Rust has it's own package manager called `Cargo`. I'll go into greater detail about how to install and integrate packages into projects using `Cargo`.
+
+## Resources
+1. [Image Processing Ascii Art with Rust](https://www.youtube.com/watch?v=uSYd8HjY6GE)
